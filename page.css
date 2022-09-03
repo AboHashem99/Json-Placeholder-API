@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to right, black,tomato);
+}
+
+.list-item {
+    height:5%;
+    line-height: 0;
+    background-color: white;
+    list-style: none;
+    border: solid 2px pink;
+    border-radius: 100px;
+    padding: 0px 10px;
+    margin: 5px;
+}
+#container {
+    width: 40%;
+    margin: 30px;
+}
